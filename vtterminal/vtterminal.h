@@ -2,10 +2,10 @@
 #define _VTTERMINAL_H
 
 
-#define CH_W    6                       
+#define CH_W    5                       
 #define CH_H    8                       
 
-#define SC_W    53                      
+#define SC_W    60                      
 #define SC_H    40  
 #define SC_PIXEL_WIDTH 320
 #define SC_PIXEL_HEIGHT 320     
